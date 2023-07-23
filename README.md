@@ -30,4 +30,4 @@
 <br>
 
 <h3 align="center">Support:</h3>
-<p align="center"><a href="https://ko-fi.com/Buy me a coffee ☕️"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy me a coffee ☕️" /></a></p><br><br>
+<p align="center"><a href="www.linkedin.com/in/akila-perera-ba697a180"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy me a coffee ☕️" /></a></p><br><br>
